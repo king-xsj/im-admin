@@ -34,8 +34,8 @@ const IndexLayoutRoutes: Array<RoutesDataItem> = [
             path: '/home',
           },
           {
-            title: 'universal-layout.menu.home.custom-breadcrumbs.liqingsong.cc',
-            path: 'http://liqingsong.cc',
+            title: 'universal-layout.menu.home.custom-breadcrumbs.KJ.cc',
+            path: 'http://KJ.cc',
           },
         ],
         tabNavCloseBefore: (close: () => void): void=> {
@@ -47,7 +47,7 @@ const IndexLayoutRoutes: Array<RoutesDataItem> = [
       {
         icon: 'detail',
         title: 'universal-layout.menu.home.docs',
-        path: 'http://admin-antd-vue.liqingsong.cc/',
+        path: 'http://admin-antd-vue.KJ.cc/',
         belongTopMenu: '/home',
         redirect: ''
       },

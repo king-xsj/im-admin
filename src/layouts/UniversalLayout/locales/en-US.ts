@@ -5,7 +5,7 @@ export default {
   'universal-layout.menu.home': 'Home',
   'universal-layout.menu.home.workplace': 'Workplace',
   'universal-layout.menu.home.custom-breadcrumbs': 'Custom bread crumbs',
-  'universal-layout.menu.home.custom-breadcrumbs.liqingsong.cc': 'liqingsong.cc',
+  'universal-layout.menu.home.custom-breadcrumbs.KJ.cc': 'KJ.cc',
   'universal-layout.menu.home.docs': 'Using document',
 
   'universal-layout.menu.component': 'Component',

@@ -5,7 +5,7 @@ export default {
   'universal-layout.menu.home': '首頁',
   'universal-layout.menu.home.workplace': '工作臺',
   'universal-layout.menu.home.custom-breadcrumbs': '自定義面包屑',
-  'universal-layout.menu.home.custom-breadcrumbs.liqingsong.cc': 'liqingsong.cc',
+  'universal-layout.menu.home.custom-breadcrumbs.KJ.cc': 'KJ.cc',
   'universal-layout.menu.home.docs': '使用文檔',
 
   'universal-layout.menu.component': '組件',

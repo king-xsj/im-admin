@@ -3,7 +3,7 @@
 </script>
 <template>
     <div class="layout-right-footer">
-      <div>Copyright © 2020 liqingsong.cc, All Rights Reserved</div>
+      <div>Copyright © 2020 KJ.cc, All Rights Reserved</div>
     </div>
 </template>
 <style lang="less" scoped>

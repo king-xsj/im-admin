@@ -1,6 +1,6 @@
 /**
  * 路由入口
- * @author LiQingSong
+ * @author KJ
  */
 import NProgress from 'nprogress'; // progress bar
 import 'nprogress/nprogress.css'; // progress bar style

@@ -6,7 +6,7 @@ export type NavMode = 'inline' | 'horizontal';
 
 /**
  * 站点配置
- * @author LiQingSong
+ * @author KJ
  */
 export interface SettingsType {
     /**
